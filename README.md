@@ -1,5 +1,9 @@
 while voat/voat (https://github.com/voat/voat) is dead (unmaintained for over two years) i've decided to pick-up the code and make it work for my pet-project.
 
+
+----
+
+
 # Quick Status Updates
 
 This branch is fully building on .NET Core 2 Preview and a majority of unit tests and UI are ported and working.
